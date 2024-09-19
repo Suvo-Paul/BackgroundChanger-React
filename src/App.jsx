@@ -1,7 +1,10 @@
 import React from 'react';
 
+import './index.css'
+
 import CardComponents from './components/cardComponents'
 import ButtonComponent from "./components/ButtonComponent"
+
 
 function App() {
   return (
